@@ -12,8 +12,8 @@ api = 2
 
 ; Profile
 
-projects[profilename][type] = "profile"
-projects[profilename][download][type] = "git"
-projects[profilename][download][url] = "git@github.com:itomic/profilename.git"
-;projects[profilename][download][branch] = "branchname"
+projects[scarbs][type] = "profile"
+projects[scarbs][download][type] = "git"
+projects[scarbs][download][url] = "git@github.com:itomic/scarbs_profile.git"
+;projects[scarbs][download][branch] = "branchname"
 
