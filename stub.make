@@ -14,6 +14,6 @@ api = 2
 
 projects[scarbs][type] = "profile"
 projects[scarbs][download][type] = "git"
-projects[scarbs][download][url] = "git@github.com:itomic/scarbs_profile.git"
+projects[scarbs][download][url] = "git@github.com:itomicsam/scarbs_profile.git"
 ;projects[scarbs][download][branch] = "branchname"
 
